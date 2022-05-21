@@ -1,0 +1,3 @@
+name: docker-example
+runtime: dotnet
+description: A minimal C# Pulumi program
